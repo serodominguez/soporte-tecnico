@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\Soporte\\Backend\\Sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A1E658-C29A-4F18-A5E4-D155124DB46A}|Sistema.Api\\Sistema.Api.csproj|c:\\users\\sergio\\desktop\\soporte\\backend\\sistema\\sistema.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A1E658-C29A-4F18-A5E4-D155124DB46A}|Sistema.Api\\Sistema.Api.csproj|solutionrelative:sistema.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD92B631-75DC-4BD8-BFEE-D0E8FEDD4AB0}|Sistema.Core\\Sistema.Core.csproj|c:\\users\\sergio\\desktop\\soporte\\backend\\sistema\\sistema.core\\entities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD92B631-75DC-4BD8-BFEE-D0E8FEDD4AB0}|Sistema.Core\\Sistema.Core.csproj|solutionrelative:sistema.core\\entities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A1E658-C29A-4F18-A5E4-D155124DB46A}|Sistema.Api\\Sistema.Api.csproj|c:\\users\\sergio\\desktop\\soporte\\backend\\sistema\\sistema.api\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A1E658-C29A-4F18-A5E4-D155124DB46A}|Sistema.Api\\Sistema.Api.csproj|solutionrelative:sistema.api\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Soporte\\Backend\\Sistema\\Sistema.Api\\Models\\UsuariosModel.cs",
+              "RelativeDocumentMoniker": "Sistema.Api\\Models\\UsuariosModel.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Soporte\\Backend\\Sistema\\Sistema.Api\\Models\\UsuariosModel.cs",
+              "RelativeToolTip": "Sistema.Api\\Models\\UsuariosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:55:08.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Soporte\\Backend\\Sistema\\Sistema.Core\\Entities\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Sistema.Core\\Entities\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Soporte\\Backend\\Sistema\\Sistema.Core\\Entities\\Usuarios.cs",
+              "RelativeToolTip": "Sistema.Core\\Entities\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:38:37.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Soporte\\Backend\\Sistema\\Sistema.Api\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Sistema.Api\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Soporte\\Backend\\Sistema\\Sistema.Api\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Sistema.Api\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAMwPEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:32:56.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

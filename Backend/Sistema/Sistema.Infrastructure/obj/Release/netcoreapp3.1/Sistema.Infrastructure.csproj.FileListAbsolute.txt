@@ -1,0 +1,112 @@
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.deps.json
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.json
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.dll
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.pdb
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CopyComplete
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+C:\Users\Sergio\Desktop\Proyecto I\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.genruntimeconfig.cache
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.deps.json
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.json
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.dev.json
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.dll
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.pdb
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.AssemblyReference.cache
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfoInputs.cache
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfo.cs
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CopyComplete
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+E:\Shared\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.genruntimeconfig.cache
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.deps.json
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.json
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.dev.json
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.dll
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.pdb
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.AssemblyReference.cache
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfoInputs.cache
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfo.cs
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CopyComplete
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+E:\Proyectos\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.genruntimeconfig.cache
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.deps.json
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.json
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.dev.json
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.dll
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.pdb
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.AssemblyReference.cache
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfoInputs.cache
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfo.cs
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CopyComplete
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+E:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.genruntimeconfig.cache
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.deps.json
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.json
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.dev.json
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.dll
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.pdb
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.AssemblyReference.cache
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfoInputs.cache
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfo.cs
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CopyComplete
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+D:\Manaco\Soporte\Inventarios\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.genruntimeconfig.cache
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.deps.json
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.json
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.dev.json
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.dll
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.pdb
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.AssemblyReference.cache
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfoInputs.cache
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfo.cs
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CopyComplete
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+E:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.genruntimeconfig.cache
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.deps.json
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.json
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.runtimeconfig.dev.json
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.dll
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\bin\Release\netcoreapp3.1\Sistema.Core.pdb
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.AssemblyReference.cache
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfoInputs.cache
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.AssemblyInfo.cs
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.csproj.CopyComplete
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.dll
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.pdb
+D:\Manaco\Soporte\Backend\Sistema\Sistema.Infrastructure\obj\Release\netcoreapp3.1\Sistema.Infrastructure.genruntimeconfig.cache
